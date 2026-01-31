@@ -15,7 +15,7 @@ Our services are designed for organizations seeking reliable, SLA-driven, and co
 • Reduced operational risk and downtime  
 • Consistent service delivery across single or multi-site environments  
 
-As an enterprise data center support services provider, J3K Technologies delivers reliability at scale.
+As an [enterprise data center support services provider]( https://www.j3ktech.com/location/decatur/data-center-services-near-me-in-decatur/   ), J3K Technologies delivers reliability at scale.
 
 ---
 
@@ -39,7 +39,7 @@ A 24x7 data center support outsourcing partner ensures uninterrupted operations,
 • Faster issue resolution through early alerts  
 • Reduced risk of unplanned outages  
 
-As a data center remote monitoring services provider, J3K Technologies focuses on prevention, not reaction.
+As a [data center remote monitoring services provider](https://www.j3ktech.com/services/data-center-services/ ), J3K Technologies focuses on prevention, not reaction.
 
 ---
 
